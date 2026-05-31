@@ -1,4 +1,4 @@
-# Notezy Backend Template Architecture
+# Go Start Monolithic Kit
 
 This repository is a reusable Go monolithic backend template developed by **Notezy**.
 
